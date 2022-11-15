@@ -1,0 +1,5 @@
+.container-sm  100%  540px 720px 960px 1140px 1320px | Small
+.container-md  100%  100%  720px 960px 1140px 1320px | Middle
+.container-lg  100%  100%  100%  960px 1140px 1320px | Large
+.container-xl  100%  100%  100%  100%  1140px 1320px | Extra large
+.container-xxl 100%  100%  100%  100%  100%   1320px | Extra extra large

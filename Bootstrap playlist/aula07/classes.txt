@@ -1,0 +1,34 @@
+aula 02:
+.container-sm  100%  540px 720px 960px 1140px 1320px | Small
+.container-md  100%  100%  720px 960px 1140px 1320px | Middle
+.container-lg  100%  100%  100%  960px 1140px 1320px | Large
+.container-xl  100%  100%  100%  100%  1140px 1320px | Extra large
+.container-xxl 100%  100%  100%  100%  100%   1320px | Extra extra large
+
+aula 03:
+.border | Define borda
+.pt-1 | padding-top 1
+.p-1 | padding 1
+.p-2 | padding 2
+.p-3 | padding 3
+.row | Linha de uma tabela
+.col | coluna de uma tabela
+.col-sm  | Small
+.col-md  | Middle
+.col-lg  | Large
+.col-xl  | Extra large
+.col-xxl | Extra extra large
+.col-1 | Tamanho 1x
+.col.2 | Tamanho 2x
+.col-3 | Tamanho 3x 
+.col-4 | Tamanho 4x
+
+aula05:
+.mx-1 | padding-left e padding-right
+.my-1 | padding-top e padding-bottom
+display-1 | Muda de fonte e tamanho
+.h1,.h2,.h3,.h4,.h5,.h6 | Fuciona da mxm forma que o HTML
+
+aula06
+.text-(x)
+.bg.(x)

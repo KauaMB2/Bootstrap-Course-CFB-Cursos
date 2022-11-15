@@ -1,0 +1,7 @@
+.quadrado{
+        display: inline-block;
+        width: 80px;
+        height: 80px;
+        margin: 8px;
+        background-color: #f4f4f4;
+}
